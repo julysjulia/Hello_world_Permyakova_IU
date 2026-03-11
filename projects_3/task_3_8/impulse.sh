@@ -1,8 +1,8 @@
 #!/bin/bash
 
-read name_gene
-read level
+if [ $# -lt 2 ]; then 
+    echo "Ошибка! Недостаточно входных  данных!"
+    exit 1
+fi
 
-if ["$#" -ne  2];then 
-echo "Недостаточно входящих данных"
-echo "Экспрессия гена $name_gene  составляет $level  единиц"
+echo "Экспрессия гена $1 составляет $2 единиц."
