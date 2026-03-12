@@ -1,9 +1,11 @@
 #!/bin/bash
 
 for ((i=1; i<=10;i++)) do
-	touch test${i}.txt
+        touch test${i}.txt
 done
-count=10
-while [$count -ge 1]; do
-	rm  'test{$i}.txt'
+
+for j in {10..1}; do
+        while [ -e "test$j.txt" ]; do
+                rm "test$j.txt"
+        done
 done
