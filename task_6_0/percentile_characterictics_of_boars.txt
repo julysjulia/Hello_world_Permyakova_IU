@@ -1,0 +1,48 @@
+Age
+Percentile 25 (Q1):	3.0 years
+Percentile 40:	4.0 years
+Percentile 50 (Q2):	4.7 years
+Percentile 75 (Q3):	6.0 years
+Percentile 95:	8.1 years
+
+Length
+Percentile 25 (Q1):	130.3 cm
+Percentile 40:	143.0 cm
+Percentile 50 (Q2):	150.1 cm
+Percentile 75 (Q3):	164.8 cm
+Percentile 95:	195.7 cm
+
+Shoulder height
+Percentile 25 (Q1):	72.4 cm
+Percentile 40:	77.4 cm
+Percentile 50 (Q2):	80.4 cm
+Percentile 75 (Q3):	87.3 cm
+Percentile 95:	98.2 cm
+
+Tusk length
+Percentile 25 (Q1):	7.3 cm
+Percentile 40:	8.7 cm
+Median 50 (Q2):	9.5 cm
+Percentile 75 (Q3):	13.4 cm
+Percentile 95:	19.0 cm
+
+Litter size
+Percentile 25 (Q1):	0.0
+Percentile 40:	4.0
+Median 50 (Q2):	5.0
+Percentile 75 (Q3):	6.0
+Percentile 95:	7.5
+
+Health score
+Percentile 25 (Q1):	63.8
+Percentile 40:	71.0
+Median 50 (Q2):	75.0
+Percentile 75 (Q3):	88.0
+Percentile 95:	100.0
+
+Territory
+Percentile 25 (Q1):	2.9 ha
+Percentile 40:	3.8 ha
+Median 50 (Q2):	4.1 ha
+Percentile 75 (Q3):	5.7 ha
+Percentile 95:	7.6 ha

@@ -1,0 +1,28 @@
+Variation:Boars variation of age years is 4.25
+Boars variation of weight kg is 718.08
+Boars variation of length cm is 681.50
+Boars variation of shoulder height cm is 137.81
+Boars variation of tusk length cm is 26.13
+Boars variation of litter size (females only) is 8.10
+Boars variation of health score is 279.11
+Boars variation of territory ha is 3.60
+
+Standart deviation:
+Boars standart deviation of age years is 2.06
+Boars standart deviation of weight kg is 26.80
+Boars standart deviation of length cm is 26.11
+Boars standart deviation of shoulder height cm is 11.74
+Boars standart deviation of tusk length cm is 5.11
+Boars standart deviiation of litter size (females only) is 2.85
+Boars standart deviation of health score is 16.71
+Boars standart deviation of territory ha is 1.90
+
+Coefficient of variation:
+Boars coefficient of variation of age years is 44.20
+Boars coefficient of variation of weight kg is 38.42
+Boars coefficient of variation of length cm is 17.43
+Boars coefficient of variation of shoulder height cm is 14.75
+Boars coefficient of variation of tusk length cm is 49.87
+Boars coefficient of variation of litter size (females only) is 72.74
+Boars coefficient of variation of health score is 22.23
+Boars coefficient of variation of territory ha is 44.71
